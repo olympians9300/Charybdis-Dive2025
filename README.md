@@ -6,4 +6,5 @@ We're having some issues with our code when it comes to 2 issues mainly:
 2 - Looking for Clarification on the functionality of CommandXboxController and how it differs with XboxController so we can use the trigger command and understand how to implement it better and make sure we structure it's code/usage properly. We're unsure if it's something to do with the safety mechanisms.
 
 Overall seeking assistance. (sigh)
+(Image linked in Chief Delphi Post)
 
